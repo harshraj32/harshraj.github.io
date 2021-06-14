@@ -1,0 +1,32 @@
+languages:
+  - item: Python
+  - item: Java
+  - item: C
+  - item: Javascript
+  - item: R
+  - item: HTML  
+  - item: css
+
+frameworks:
+  - item: Pytorch
+  - item: Tensorflow
+  - item: React
+  - item: Node
+  - item: Flutter  
+  - item: Android Studio
+  - item: Bootstrap
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Firebase
+  - item: MongoDB
+  - item: 
+  - item: 
+
+design:
+  - item: Figma
+  - item: DesignXD
+  - item: Prototyping
+  - item: Wireframing
+  - item: User Testing

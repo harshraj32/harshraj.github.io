@@ -1,0 +1,53 @@
+- name: Amelia - Discord Voice Assistant
+  url: https://github.com/harshraj32/Amelia
+  code: https://github.com/harshraj32/Amelia
+  description: User friendly voice assistant which plays songs on the discord voice channel by recognizing the voice commands
+  used:
+    - thing: Python
+    - thing: Discord API
+    - thing: FFmpeg
+    - thing: Youtube API
+    - thing: Speech Recognition
+
+- name: Offline First Web Application
+  url: https://github.com/harshraj32/sikkim
+  code: https://github.com/harshraj32/sikkim
+  description: Designed and developed an app that aims to be fully functional despite the network issues by employing caching and updating mechanism.
+  used:
+    - thing: PouchDB
+    - thing: Nodejs
+    - thing: IBM Cloud
+    - thing: HTML
+    - thing: JavaScript
+    - thing: CSS
+
+- name: Verific
+  url: https://github.com/harshraj32/Verific
+  code: https://github.com/harshraj32/Verific
+  description: This project aims to eliminate the need of verifying your KYC on every app. Instead This app works like a protocol on various other apps that ask for kyc.
+  used:
+    - thing: Flutter
+    - thing: Dart
+    - thing: Firebase
+    - thing: No Sql
+
+- name: Ship-Tracking
+  url: https://github.com/harshraj32/ship-tracking
+  code: https://github.com/harshraj32/ship-tracking
+  description: A Realtime (Android & IOS) Application for Mahalaxmi Crusher and Logistic Pvt Ltd.
+  used:
+    - thing: Flutter
+    - thing: Dart
+    - thing: Firebase
+    - thing: No Sql
+
+- name: Insta-Bot
+  url: https://github.com/harshraj32/Instabot
+  code: https://github.com/harshraj32/Instabot
+  description: Insta bot is an automation of the task of posting pictures on instagram with appropriate caption generated.
+  used:
+    - thing: Python
+    - thing: Selenium
+    - thing: Automation
+
+    
